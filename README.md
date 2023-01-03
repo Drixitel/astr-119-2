@@ -1,3 +1,3 @@
-# astr-119-hw-3
+# astr-119-hw
 
 Plotting a graph in Jupyter
